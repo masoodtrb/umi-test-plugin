@@ -6,7 +6,7 @@
     "name": "Masood Torabi",
     "email": "masood.trb@gmail.com"
   },
-  "repository": "/Example",
+  "repository": "https://github.com/masoodtrb/umi-test-plugin",
   "peerDependencies": {
     "umi": "2.x"
   },
